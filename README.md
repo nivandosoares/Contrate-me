@@ -1,4 +1,38 @@
+<table class = "box">
+  <tr>
+    <td>
+      <center>
+      <h2>Tipos de Contrato para Freelancer</h2>
+      </center>
+      <p>Olá! Como um designer freelancer, ofereço diferentes tipos de contrato para meus clientes. A seguir, apresento três opções que podem se adequar às suas necessidades:</p>
+      <center>
+      <h3>1. Contrato por Projeto</h3>
+      </center>
+      <p>Eu ofereço esse tipo de contrato para clientes que possuem um projeto específico e limitado em termos de prazo e escopo. Vamos negociar o valor do projeto com base no tempo e esforço necessários para sua conclusão.</p>
+      <center>
+      <h3>2. Contrato por Mês</h3>
+      </center>
+      <p>Para clientes que precisam de um designer para trabalhar regularmente em vários projetos ou demandas, ofereço um contrato mensal. Essa é uma opção mais flexível que permite aos clientes ajustar o volume de trabalho a cada mês.</p>
+      <center>
+      <h3>3. Seleção de Serviços</h3>
+      </center>
+      <p>Também tenho uma lista de serviços individuais com preços fixos. Essa é uma ótima opção para clientes que precisam de um serviço específico e não desejam se comprometer com um contrato de longo prazo.</p>
+      <p>Cada contrato será personalizado para atender às necessidades específicas do cliente, incluindo prazo, escopo e preço. Se tiver interesse em trabalhar comigo, entre em contato para que possamos discutir qual opção é a melhor para você.</p>
+    </td>
+  </tr>
+</table>
 
+<style>
+    table {
+        border-radius: 20px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    }
+
+    th {
+        background-color: black;
+        color: white;
+    }
+</style>
 |SERVIÇO                                                       |PREÇO                      |ADICIONAIS                                                  |QUANTIDADE DE REVISÕES|PREÇO POR REVISÕES ADICIONAIS        |
 |:--------------------------------------------------------------:|:---------------------------:|:------------------------------------------------------------:|:----------------------:|:-------------------------------------:|
 |Criação de logotipo                                           |R$ 250 - R$ 500            |Arquivos em diferentes formatos, manual de identidade visual|4 - 6                 |R$ 35 - R$ 70 por revisão adicional  |
