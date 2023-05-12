@@ -41,14 +41,9 @@
 |                        Criação de arte                         |      R$ 320 - R$ 1280       |               Entrega de arquivo final aberto                |         2 - 3          |  R$ 35 - R$ 70 por revisão adicional  |
 |                   Edição e criação de vídeos                   | R$ 800 - R$ 1600 por minuto |              Roteiro, locução, animação, música              |         1 - 2          | R$ 160 - R$ 320 por revisão adicional |
 
-<table class="table-container">
-  <tr>
-    <td align="center"><a href="https://behance.net/nivandosoares">Portfólio</a></td>
-    <td align="center"><a href="mailto:sidvandoni@gmail.com">E-mail</a></td>
-    <td align="center"><a href="https://nivando.dev">Site principal</a></td>
-    <td align="center"><a href="https://linkedin.com/in/nivando">LinkedIn</a></td>
-  </tr>
-</table>
+| Portfólio | E-mail | Site principal | LinkedIn |
+| --- | --- | --- | --- |
+| [https://behance.net/nivandosoares](https://behance.net/nivandosoares) | [mailto:sidvandoni@gmail.com](mailto:sidvandoni@gmail.com) | [https://nivando.dev](https://nivando.dev) | [https://linkedin.com/in/nivando](https://linkedin.com/in/nivando) |
 
 <footer>
 <div style="text-align: center;">
