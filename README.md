@@ -6,7 +6,7 @@
   <tr>
     <td>
       <center>
-      <h2>Tipos de Contrato para Freelancer</h2>
+      <h2>Lista de serviços e tipos de contrato</h2>
       </center>
       <p>Olá! Que bom que veio até aqui. A seguir, apresento três opções que podem se adequar às suas necessidades:</p>
       <center>
