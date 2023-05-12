@@ -42,7 +42,7 @@
 |                   Edição e criação de vídeos                   | R$ 800 - R$ 1600 por minuto |              Roteiro, locução, animação, música              |         1 - 2          | R$ 160 - R$ 320 por revisão adicional |
 
 | Portfólio | E-mail | Site principal | LinkedIn |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 | [https://behance.net/nivandosoares](https://behance.net/nivandosoares) | [mailto:sidvandoni@gmail.com](mailto:sidvandoni@gmail.com) | [https://nivando.dev](https://nivando.dev) | [https://linkedin.com/in/nivando](https://linkedin.com/in/nivando) |
 
 <footer>
