@@ -2,8 +2,9 @@
 
 <style>
   .table-container {
-      display: flex;
-      justify-content: center;
+      display: flex; !important;
+      justify-content: center; !important;
+      margin: 0 auto;
     }
 
     table {
