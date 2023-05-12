@@ -1,26 +1,6 @@
-<!-- classic html structure -->
-
-<style>
-  .table-container {
-      display: flex; !important;
-      justify-content: center; !important;
-      margin: 0 auto;
-    }
-
-    table {
-        border-radius: 20px;
-        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
-        display: flex;
-        justify-content:center;
-    }
-
-    th {
-        background-color: black;
-        color: white;
-    }
-</style>
-
-<!-- table-->
+<head>
+<link rel ="stylesheet" href="style.css">
+<!-- HTML table-->
 <table>
   <tr>
     <td>
