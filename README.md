@@ -44,6 +44,7 @@
 
 
 | [Portfólio](https://behance.net/nivandosoares) | [E-mail](mailto:sidvandoni@gmail.com) | [Site principal](https://nivando.dev) | [LinkedIn](https://linkedin.com/in/nivando) |
+
 | :---: | :---: | :---: | :---: |
 
 
