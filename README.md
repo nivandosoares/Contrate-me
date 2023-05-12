@@ -4,7 +4,7 @@
       <center>
       <h2>Tipos de Contrato para Freelancer</h2>
       </center>
-      <p>Olá! Como um designer freelancer, ofereço diferentes tipos de contrato para meus clientes. A seguir, apresento três opções que podem se adequar às suas necessidades:</p>
+      <p>Olá! Que bom que veio até aqui. A seguir, apresento três opções que podem se adequar às suas necessidades:</p>
       <center>
       <h3>1. Contrato por Projeto</h3>
       </center>
@@ -17,15 +17,22 @@
       <h3>3. Seleção de Serviços</h3>
       </center>
       <p>Também tenho uma lista de serviços individuais com preços fixos. Essa é uma ótima opção para clientes que precisam de um serviço específico e não desejam se comprometer com um contrato de longo prazo.</p>
-      <p>Cada contrato será personalizado para atender às necessidades específicas do cliente, incluindo prazo, escopo e preço. Se tiver interesse em trabalhar comigo, entre em contato para que possamos discutir qual opção é a melhor para você.</p>
+      <p>Cada contrato será personalizado para atender às necessidades específicas do cliente, incluindo prazo, escopo e preço. Se tiver interesse em trabalhar comigo, <a href="mailto:sidvandoni@gmail.com">entre em contato</a> para que possamos discutir qual opção é a melhor para você.</p>
     </td>
   </tr>
 </table>
 
 <style>
+  .table-container {
+      display: flex;
+      justify-content: center;
+    }
+
     table {
         border-radius: 20px;
         box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+        display: flex;
+        justify-content:center;
     }
 
     th {
@@ -51,7 +58,14 @@ background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100
 |                        Criação de arte                         |      R$ 320 - R$ 1280       |               Entrega de arquivo final aberto                |         2 - 3          |  R$ 35 - R$ 70 por revisão adicional  |
 |                   Edição e criação de vídeos                   | R$ 800 - R$ 1600 por minuto |              Roteiro, locução, animação, música              |         1 - 2          | R$ 160 - R$ 320 por revisão adicional |
 
-[Portfólio](https://behance.net/nivandosoares) | [E-mail](mailto:sidvandoni@gmail.com) | [Site principal](https://nivando.dev) | [LinkedIn](https://linkedin.com/in/nivando)|
+<table class="table-container">
+  <tr>
+    <td align="center"><a href="https://behance.net/nivandosoares">Portfólio</a></td>
+    <td align="center"><a href="mailto:sidvandoni@gmail.com">E-mail</a></td>
+    <td align="center"><a href="https://nivando.dev">Site principal</a></td>
+    <td align="center"><a href="https://linkedin.com/in/nivando">LinkedIn</a></td>
+  </tr>
+</table>
 
 <footer>
 <div style="text-align: center;">
