@@ -1,26 +1,4 @@
-<table>
-  <tr>
-    <td>
-      <center>
-      <h2>Tipos de Contrato para Freelancer</h2>
-      </center>
-      <p>Olá! Que bom que veio até aqui. A seguir, apresento três opções que podem se adequar às suas necessidades:</p>
-      <center>
-      <h3>1. Contrato por Projeto</h3>
-      </center>
-      <p>Eu ofereço esse tipo de contrato para clientes que possuem um projeto específico e limitado em termos de prazo e escopo. Vamos negociar o valor do projeto com base no tempo e esforço necessários para sua conclusão.</p>
-      <center>
-      <h3>2. Contrato por Mês</h3>
-      </center>
-      <p>Para clientes que precisam de um designer para trabalhar regularmente em vários projetos ou demandas, ofereço um contrato mensal. Essa é uma opção mais flexível que permite aos clientes ajustar o volume de trabalho a cada mês.</p>
-      <center>
-      <h3>3. Seleção de Serviços</h3>
-      </center>
-      <p>Também tenho uma lista de serviços individuais com preços fixos. Essa é uma ótima opção para clientes que precisam de um serviço específico e não desejam se comprometer com um contrato de longo prazo.</p>
-      <p>Cada contrato será personalizado para atender às necessidades específicas do cliente, incluindo prazo, escopo e preço. Se tiver interesse em trabalhar comigo, <a href="mailto:sidvandoni@gmail.com">entre em contato</a> para que possamos discutir qual opção é a melhor para você.</p>
-    </td>
-  </tr>
-</table>
+<!-- classic html structure -->
 
 <style>
   .table-container {
@@ -44,6 +22,33 @@
 background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
     }
 </style>
+
+<!-- table-->
+<table>
+  <tr>
+    <td>
+      <center>
+      <h2>Tipos de Contrato para Freelancer</h2>
+      </center>
+      <p>Olá! Que bom que veio até aqui. A seguir, apresento três opções que podem se adequar às suas necessidades:</p>
+      <center>
+      <h3>1. Contrato por Projeto</h3>
+      </center>
+      <p>Eu ofereço esse tipo de contrato para clientes que possuem um projeto específico e limitado em termos de prazo e escopo. Vamos negociar o valor do projeto com base no tempo e esforço necessários para sua conclusão.</p>
+      <center>
+      <h3>2. Contrato por Mês</h3>
+      </center>
+      <p>Para clientes que precisam de um designer para trabalhar regularmente em vários projetos ou demandas, ofereço um contrato mensal. Essa é uma opção mais flexível que permite aos clientes ajustar o volume de trabalho a cada mês.</p>
+      <center>
+      <h3>3. Seleção de Serviços</h3>
+      </center>
+      <p>Também tenho uma lista de serviços individuais com preços fixos. Essa é uma ótima opção para clientes que precisam de um serviço específico e não desejam se comprometer com um contrato de longo prazo.</p>
+      <p>Cada contrato será personalizado para atender às necessidades específicas do cliente, incluindo prazo, escopo e preço. Se tiver interesse em trabalhar comigo, <a href="mailto:sidvandoni@gmail.com">entre em contato</a> para que possamos discutir qual opção é a melhor para você.</p>
+    </td>
+  </tr>
+</table>
+<!-- markdown table here -->
+
 
 |                            SERVIÇO                             |            PREÇO            |                          ADICIONAIS                          | QUANTIDADE DE REVISÕES |    PREÇO POR REVISÕES E ADICIONAIS    |
 | :------------------------------------------------------------: | :-------------------------: | :----------------------------------------------------------: | :--------------------: | :-----------------------------------: |
