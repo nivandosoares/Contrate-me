@@ -1,5 +1,6 @@
 <head>
 <link rel ="stylesheet" href="style.css">
+</head>
 <!-- HTML table-->
 <table>
   <tr>
